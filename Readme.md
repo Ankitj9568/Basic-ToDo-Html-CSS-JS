@@ -19,8 +19,9 @@ Responsive design for mobile and desktop views.
 
 
 🛠️ Technologies Used
+
 HTML
-JavaScript
+& JavaScript
 
 💻 Installation
 
