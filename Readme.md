@@ -24,6 +24,9 @@ HTML
 & JavaScript
 
 💻 Installation
+Visit the page using https://basic-to-do-html-css-js.vercel.app/
+
+Or
 
 Clone the repository:
 
