@@ -1,51 +1,55 @@
-Basic ToDo App (HTML, JS)
+# 📝 Stylish ToDo List App
 
-A simple and interactive ToDo List web app built with HTML and JavaScript. This app allows users to add,
+A sleek and modern **ToDo List** web application built using **HTML, CSS, and JavaScript**. Users can add and delete tasks dynamically, with smooth UI animations and responsive design.
 
-remove, and mark tasks as completed. It's a great project for learning the basics of front-end web
+🌐 **Live Demo:**  
+👉 [Click here to view the project](https://basic-to-do-html-css-js.vercel.app/)
 
-development.
+---
+
+## ✨ Features
+
+- ✅ Add new tasks with a single click
+- 🗑️ Delete tasks easily
+- 🎨 Beautiful glassmorphism-style card design
+- 🌈 Animated gradient background with floating circles
+- ⚡ Smooth hover effects on buttons and list items
+- 📱 Responsive layout
+
+---
+
+## 📂 Technologies Used
+
+- **HTML5** – Structure and elements
+- **CSS3** – Styling, animations, and responsive layout
+- **JavaScript (Vanilla)** – DOM manipulation and interactivity
+
+---
+
+## 🚀 Getting Started
+
+To run the project locally:
+
+1. Clone the repo  
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
+
+2. Open index.html in your browser
+
+No build steps or dependencies required. It's a simple frontend project.
+
+---
+
+📁 File Structure
+graphql
+Copy
+Edit
+├── index.html      # Main HTML structure
+├── app.js          # JavaScript logic for add/delete
+├── todo.css        # Styling and animations
+🙌 Acknowledgements
+Inspired by clean UI principles and glassmorphism design
+
+Built as part of DOM and JavaScript learning
 
 
-🚀 Features
-
-Add tasks with the input field.
-
-Mark tasks as completed with a checkbox.
-
-Remove tasks with a delete button.
-
-Responsive design for mobile and desktop views.
-
-
-🛠️ Technologies Used
-
-HTML
-& JavaScript
-
-💻 Installation
-
-Visit the page using https://basic-to-do-html-css-js.vercel.app/
-
-Or
-
-Clone the repository:
-
-git clone https://github.com/Ankitj9568/Basic-ToDo-Html-CSS-JS.git
-
-Open the project folder in your preferred code editor (e.g., VS Code).
-
-Open index.html in your browser to see the app in action.
-
-
-🔧 How to Use
-
-Add a Task: Type your task in the input field and press Enter or click the "Add Task" button.
-
-Mark a Task as Completed: Click the checkbox next to the task.
-
-Remove a Task: Click the "Delete" button next to the task you want to remove.
-
-
-🤝 Contributing
-Feel free to fork the repository, make changes, and open a pull request. Contributions are welcome!
