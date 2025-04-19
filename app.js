@@ -6,11 +6,11 @@ btn.addEventListener("click", function (event) {
     if (inp.value.trim() !== "") {
         let item = document.createElement("li");
         item.innerText = inp.value;
-        item.style.color = "white"; // make list item text white
+        item.style.color = "white";
 
         let delBtn = document.createElement("button");
         delBtn.innerText = "delete";
-        delBtn.classList.add("feature"); // ✅ use same class
+        delBtn.classList.add("feature"); 
 
         item.appendChild(delBtn);
         ul.appendChild(item);
